@@ -1,4 +1,4 @@
-package com.example.weatherappproject
+package com.example.weatherappproject.Home
 
 data class Sys(
     val country: String,
